@@ -1,3 +1,3 @@
-Hi 👋, I'm MUGIRANEZA Magnifique 
+Hi 👋, I'm MUGIRANEZA Magnifique. 
 Currently learning 📜 at ALX.
-Passionate to become fullstack software enginner 😎
+Passionate to become fullstack software enginner😎.
